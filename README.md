@@ -9,12 +9,11 @@
 | PostgreSQL | https://www.postgresql.org/ |
 | IntelliJ | https://www.jetbrains.com/ko-kr/idea/ |
 
-- SQL <br>
-\- 테이블 생성, 삭제, 수정에 대해 배웁니다.
-
-- JDBC<br>
-\- 자바를 이용하여 DB에 접속할 수 있도록 하는 자바 API를 배웁니다.
 ※ javac 11.0.17 사용
+
+```java
+
+```
 
 ### 2. Operating System
 - book : Operating System Concepts 10th
