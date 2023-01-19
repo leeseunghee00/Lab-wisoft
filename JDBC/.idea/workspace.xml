@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53f3965f-9b04-462b-a35f-5e74123bdf37" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/programming/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/programming/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vuejs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vuejs/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="53f3965f-9b04-462b-a35f-5e74123bdf37" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,14 +28,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "//wsl$/Ubuntu-22.04/home/leeseunghee/development/wisoft/Lab-wisoft/JDBC"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu-22.04/home/leeseunghee/development/wisoft/Lab-wisoft/JDBC&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl$\Ubuntu-22.04\home\leeseunghee\development\wisoft\Lab-wisoft\JDBC\programming\.idea" />
