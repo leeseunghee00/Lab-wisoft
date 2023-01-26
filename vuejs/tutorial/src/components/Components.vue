@@ -3,5 +3,5 @@
 </template>
 
 <script setup>
-import ChildComp from '/ChildComp.vue'
+import ChildComp from './ComponentsChildComp.vue'
 </script>
