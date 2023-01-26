@@ -13,6 +13,8 @@
     <Props />
     <Emits />
     <Slots />
+    <Test1Components />
+    <Test2Components />
   </div>
 </template>
 
@@ -34,11 +36,14 @@ import Emits from "@/components/Emits.vue";
 import EmitsChildComp from "@/components/EmitsChildComp.vue";
 import Slots from "@/components/Slots.vue";
 import SlotsChildComp from "@/components/SlotsChildComp.vue";
-
+import Test1Components from "@/Test/Test1Components.vue";
+import Test2Components from "@/Test/Test2Components.vue";
 
 export default {
   name: 'App',
   components: {
+    Test2Components,
+    Test1Components,
     SlotsChildComp,
     Slots,
     EmitsChildComp,
