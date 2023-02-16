@@ -13,7 +13,7 @@ export default {
     const book = reactive({
       author: "Vue Team",
       year: "2023",
-      title: "Vue 3 Guide",
+      title: "Vue CompareVue Guide",
       description: "당신은 지금 바로 이 책을 읽습니다",
       price: "무료",
     });
